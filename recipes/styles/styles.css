@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-image: url("https://cdn.theatlantic.com/media/img/photo/2015/02/c01_59565822_lead/original.jpg");
+  margin-bottom: 200px;
+}
+
+img {
+  margin-bottom: 36px;
+}
+
+header {
+  text-align: center;
+  font-weight: bold;
+  font-size: large;
+  margin-left: 36px;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
