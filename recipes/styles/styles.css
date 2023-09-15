@@ -4,8 +4,19 @@ body {
   margin-bottom: 200px;
 }
 
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+.recipe {
+  margin: 50px;
+  border: 4px solid grey;
+}
+
 img {
-  margin-bottom: 36px;
+  width: 300px;
 }
 
 header {
