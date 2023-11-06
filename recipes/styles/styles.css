@@ -2,12 +2,13 @@ body {
   text-align: center;
   background-image: url("https://cdn.theatlantic.com/media/img/photo/2015/02/c01_59565822_lead/original.jpg");
   margin-bottom: 200px;
+  color: whitesmoke;
 }
 
 a {
   text-decoration: none;
   font-size: 22px;
-  color: black;
+  color: whitesmoke;
 }
 
 .recipe {
